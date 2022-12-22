@@ -2,7 +2,8 @@
 
 Implementation of the data structure of a circular linked list using Head Node.
 
-![circular lInked list](https://user-images.githubusercontent.com/115127639/208486238-8645abcf-3003-41b0-a839-7eb956be3240.png)
+![circular lInked list](https://user-images.githubusercontent.com/115127639/209162198-07f02043-725a-48d1-968c-7023d2dd14c2.png)
+
 
 # Implemented Functions:
 
