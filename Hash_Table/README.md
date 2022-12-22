@@ -5,3 +5,5 @@ Hash Table is a data structure based on ease and efficiency in search, remove an
 # Types of Hash Table
 
 There are several types of hash table, with different treatments for collisions, each one of the types mentioned below are implemented in the codes available in this section.
+
+- Chainning (Linked List Solution);
