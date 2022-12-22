@@ -1,8 +1,10 @@
 # Circular Linked List
 
-Implementation of the data structure of a circular linked list in C using Head Node.
+Implementation of the data structure of a circular linked list using Head Node.
 
-Implemented Functions:
+![circular lInked list](https://user-images.githubusercontent.com/115127639/208486238-8645abcf-3003-41b0-a839-7eb956be3240.png)
+
+# Implemented Functions:
 
 Initialize list;
 Destroy;
@@ -13,4 +15,3 @@ Remove at end;
 Remove at beginning;
 Print list;
 search;
-![circular lInked list](https://user-images.githubusercontent.com/115127639/208486238-8645abcf-3003-41b0-a839-7eb956be3240.png)
