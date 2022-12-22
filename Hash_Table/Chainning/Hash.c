@@ -75,3 +75,7 @@ bool remov(Table *t, int data){
     } 
     
 }
+
+void destroy(Table *t){
+    free(t->T);
+}

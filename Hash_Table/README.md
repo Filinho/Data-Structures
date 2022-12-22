@@ -7,3 +7,5 @@ Hash Table is a data structure based on ease and efficiency in search, remove an
 There are several types of hash table, with different treatments for collisions, each one of the types mentioned below are implemented in the codes available in this section.
 
 - Chainning (Linked List Solution);
+- Quadratic Probing (use number of try as a parameter of hash);
+-
