@@ -1,4 +1,4 @@
-# Sparse Matrix with Linked List
+# Sparse Matrix
 
 Sparse matrix is ​​an application of the circular list used to store a space-reduced matrix in memory. Such a reduction is made possible by allocating only non-zero nodes.
 
