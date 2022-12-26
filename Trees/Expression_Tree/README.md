@@ -14,4 +14,5 @@ The code performs the following operations:
 
 - Division remainder
 
-![tbhc](https://user-images.githubusercontent.com/115127639/209161553-2201b042-09ae-4ed9-96ac-db01c12a8bab.png)
+
+![bnet](https://user-images.githubusercontent.com/115127639/209578178-d0d62d4e-7b55-4b18-a329-c3e38c750555.png)
