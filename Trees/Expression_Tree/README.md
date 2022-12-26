@@ -4,11 +4,11 @@ A binary expression tree is a data structure that receives an arithmetic operati
 
 The code performs the following operations:
 
-- Addition
++ Addition
 
-* Subtraction
+- Subtraction
 
-- Multiplication
+* Multiplication
 
 / Division
 
