@@ -4,14 +4,14 @@ A binary expression tree is a data structure that receives an arithmetic operati
 
 The code performs the following operations:
 
-+ Addition
+- Addition
 
 - Subtraction
 
-* Multiplication
+- Multiplication
 
-/ Division
+- Division
 
-% Division remainder
+- Division remainder
 
 ![tbhc](https://user-images.githubusercontent.com/115127639/209161553-2201b042-09ae-4ed9-96ac-db01c12a8bab.png)
